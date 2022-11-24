@@ -4,7 +4,7 @@ Je suis actuellement en fin de doctorat au laboratoire Dynamique Du Language à 
 J'ai crée mon GitHub dans le cadre de mon master en linguistique, mais je l'utilise maintenant pour hébérger le contenu de ma thèse et tout ce qui est utile pour la rendre **open**.
 Prochainement, vous devriez aussi trouver ici mes futurs projets.
 
-- [Mon profil sur le site du laboratoire DDL](www.ddl.cnrs.fr/Annuaires/Index.asp?Langue=FR&Page=Remi ANSELME)
+- [Mon profil sur le site du laboratoire DDL](http://www.ddl.cnrs.fr/Annuaires/Index.asp?Langue=FR&Page=Remi%20ANSELME)
 - [Mon Twitter que je n'utilise plus (j'ai oublié le mot de passe)](https://twitter.com/ranselme1)
 
 ### Hello ! 🤓
