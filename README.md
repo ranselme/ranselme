@@ -16,3 +16,4 @@ Soon, you should also find here my future projects.
 - [My profile on the DDL laboratory website](http://www.ddl.cnrs.fr/Annuaires/Index.asp?Langue=EN&Page=Remi%20ANSELME)
 - [My Twitter that I no longer use (I forgot the password)](https://twitter.com/ranselme1)
 
+![Rémi's github stats](https://github-readme-stats.vercel.app/api?username=ranselme&show_icons=true)
