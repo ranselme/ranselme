@@ -1,6 +1,6 @@
 ### Coucou ! 🤓 \[_English version below_\]
 
-Je suis actuellement en fin de doctorat au laboratoire Dynamique Du Language à Lyon.
+Je suis actuellement Ingénieur d'Études contractuel au laboratoire Dynamique Du Language à Lyon.
 J'ai crée mon GitHub dans le cadre de mon master en linguistique, mais je l'utilise maintenant pour hébérger le contenu de ma thèse et tout ce qui est utile pour la rendre **open**.
 Prochainement, vous devriez aussi trouver ici mes futurs projets.
 
@@ -9,7 +9,7 @@ Prochainement, vous devriez aussi trouver ici mes futurs projets.
 
 ### Hello ! 🤓
 
-I am currently completing my PhD at the Dynamique Du Language laboratory in Lyon.
+I am currently Ingénieur d'Études at the Dynamique Du Language laboratory in Lyon.
 I created my GitHub as part of my master's degree in linguistics, but I now use it to host the content of my thesis and everything that is useful to make it **open**.
 Soon, you should also find here my future projects.
 
