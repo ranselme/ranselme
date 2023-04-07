@@ -5,7 +5,7 @@ J'ai crée mon GitHub dans le cadre de mon master en linguistique, mais je l'uti
 Prochainement, vous devriez aussi trouver ici mes futurs projets.
 
 - 💻 [Mon profil sur le site du laboratoire DDL](http://www.ddl.cnrs.fr/Annuaires/Index.asp?Langue=FR&Page=Remi%20ANSELME)
-- 🦋 [Mon Twitter que je n'utilise plus (j'ai oublié le mot de passe)](https://twitter.com/ranselme1)
+- 🦋 [Mon Twitter que je n'utilise que occasionnellement](https://twitter.com/ranselme1)
 
 ### Hello ! 🤓
 
@@ -14,6 +14,6 @@ I created my GitHub as part of my master's degree in linguistics, but I now use 
 Soon, you should also find here my future projects.
 
 - 💻 [My profile on the DDL laboratory website](http://www.ddl.cnrs.fr/Annuaires/Index.asp?Langue=EN&Page=Remi%20ANSELME)
-- 🦋 [My Twitter that I no longer use (I forgot the password)](https://twitter.com/ranselme1)
+- 🦋 [My Twitter that I use occasionally](https://twitter.com/ranselme1)
 
 ![Rémi's github stats](https://github-readme-stats.vercel.app/api?username=ranselme&show_icons=true)
